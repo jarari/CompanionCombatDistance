@@ -1,0 +1,14 @@
+{
+  "name": "companioncombatdistance",
+  "version-string": "1.0.1",
+  "description": "Attempts to fix companion AI behaviors",
+  "homepage": "https://github.com/jarari/CompanionCombatDistance",
+  "license": "MIT",
+  "dependencies": [
+    "boost-iostreams",
+    "boost-iterator",
+    "boost-predef",
+    "boost-stl-interfaces",
+    "spdlog"
+  ]
+}
